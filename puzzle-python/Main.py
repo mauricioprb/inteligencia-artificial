@@ -1,4 +1,4 @@
-from matriz import Matriz
+from Matriz import Matriz
 
 if __name__ == "__main__":
     dimensao = int(input("Digite a Dimensão da matriz: "))
